@@ -53,7 +53,7 @@
      <div class="container">
        <h1><?php echo get_theme_mod('showcase_heading', 'Custom Bootstrap WordPress Theme'); ?></h1>
        <p><?php echo get_theme_mod('showcase_text', 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'); ?></p>
-       <a href="<?php echo get_theme_mod('btn_url', 'http://test.com'); ?>" class="btn btn-primary btn-lg"><?php echo get_theme_mod('btn-text', 'Get Started'); ?></a>
+       <a href="<?php echo get_theme_mod('btn_url', 'about'); ?>" class="btn btn-primary btn-lg"><?php echo get_theme_mod('btn-text', 'Get Started'); ?></a>
      </div>
    </section>
 
